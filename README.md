@@ -25,7 +25,7 @@ To make a guess, simply click on a letter on the virtual keyboard displayed on t
 
 You can continue making guesses until you guess the entire word or make too many incorrect guesses, which will result in the game being over.
 
-To start a new game, simply click the "New Game" button that appears at the end of the game.
+To start a new game, simply click the "Restart Game" button that appears at the end of the game.
 
 
 ## Components
