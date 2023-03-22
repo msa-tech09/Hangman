@@ -8,7 +8,7 @@ This is a simple hangman game created using React. The game randomly selects a w
 To get started with the Hangman Game, simply clone the repository and install the dependencies using the following commands:
 
 ```bash
-git clone https://github.com/msa-tech09/Hangman.git
+git clone https://github.com/msa-tech09/hangman.git
 cd hangman
 npm install
 ```
