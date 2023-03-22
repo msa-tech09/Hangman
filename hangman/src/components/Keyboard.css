@@ -1,0 +1,48 @@
+/* Style for the Keyboard component */
+.keyboard {
+  /* display grid with 10 columns of equal width  */
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  /* set gap between cells */
+  grid-gap: 5px;
+  /* set font family */
+  font-family: Consolas, monospace;
+}
+
+/* Styles for each key in the keyboard */
+.key {
+  /* set margin */
+  margin: 3px;
+  /* set width and height */
+  width: 40px;
+  height: 40px;
+  /* set background color and border */
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  /* set border radius and center content */
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* set font size and weight */
+  font-size: 18px;
+  font-weight: bold;
+  /* set cursor and transition */
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+/* Styles for the key when hovered */
+.key:hover {
+  /* change background color to blue */
+  background-color: rgb(37 99 235);
+}
+
+/* Styles for the disabled key */
+.disabled {
+  /* set cursor to not-allowed */
+  cursor: not-allowed;
+  /* change background color to blue and text color to black */
+  background-color: rgb(37 99 235);
+  color: black;
+}

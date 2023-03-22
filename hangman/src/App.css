@@ -1,0 +1,22 @@
+/* Set margin to 0 for all elements */
+* {
+  margin: 0;
+}
+
+/* Set background color and font family for body */
+body {
+  background-color: rgb(110, 160, 245);
+  font-family: monospace;
+}
+
+/* Set font size and weight for paragraphs */
+p {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* Set max width for images */
+img {
+  max-width: 100%;
+  height: auto;
+}

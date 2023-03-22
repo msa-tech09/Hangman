@@ -1,0 +1,5 @@
+/* Style for the 'Hangman image' */
+img {
+  max-width: 100%;
+  height: auto;
+}
