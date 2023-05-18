@@ -39,8 +39,3 @@ The game is composed of the following React components:
 - Result - displays the outcome of the game (win or lose) and a button to start a new game
 - Hint - displays a hint for the word that the player is trying to guess
 - App - the main component that orchestrates the game logic and renders the other components
-
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE (https://choosealicense.com/licenses/mit/) file for more information.
